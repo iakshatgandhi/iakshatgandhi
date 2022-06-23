@@ -2,10 +2,10 @@
 <a href="www.linkedin.com/in/iakshatgandhi">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/NisthaGupta7">
+<a href="https://twitter.com/iakshatgandhi">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:nisthagupta9@gmail.com">
+<a href="mailto:business.akshatgandhi@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://nisthagupta.medium.com">
