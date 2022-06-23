@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px">, I'm Akshat!
-<a href="www.linkedin.com/in/iakshatgandhi/">
+<a href="www.linkedin.com/in/iakshatgandhi">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/NisthaGupta7">
