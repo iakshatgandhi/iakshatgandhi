@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px">, I'm Akshat!
-<a href="www.linkedin.com/in/iakshatgandhi">
+<a href="www.linkedin.com/iakshatgandhi">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/iakshatgandhi">
@@ -7,9 +7,6 @@
 </a>
 <a href="mailto:business.akshatgandhi@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://nisthagupta.medium.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 
