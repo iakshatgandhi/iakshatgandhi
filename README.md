@@ -11,7 +11,7 @@
 <br />
 
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nistha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="iakshatgandhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iakshatgandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iakshatgandhi" /> </p>
 </p>
 
 <h3> About Me  🚀 </h3>
