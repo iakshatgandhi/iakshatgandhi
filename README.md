@@ -55,7 +55,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=iakshatgandhi)  
  
  
  <hr>
