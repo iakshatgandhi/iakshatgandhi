@@ -48,9 +48,20 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
 
 
-<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)  
+ 
+ 
+ <hr>
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
 
-</p>
-
+---
