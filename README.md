@@ -42,8 +42,7 @@
   </p>
 
 
-📶 Stats:<br><br>
-<!--  TOP LANGUAGES STATISTICS -->
+📶 Stats:<br><br><!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
