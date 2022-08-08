@@ -41,16 +41,14 @@
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
   </p>
 
-
-📶 Stats:<br><br><!--  TOP LANGUAGES STATISTICS -->
- 
- 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i>
-<b>GitHub Stats... </b></i>📈<br><br>
+<b>GitHub Stats... </b></i>📈<br><br><!--  TOP LANGUAGES STATISTICS -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
+
+
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
 </p>
