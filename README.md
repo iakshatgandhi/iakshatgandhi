@@ -65,3 +65,11 @@
          
 
 ---
+<!-- ACTIVITY GRAPH TRACKER -->
+[![Akshat's github activity graph](https://activity-graph.herokuapp.com/graph?username=iakshatgandhi&theme=react-dark)](https://github.com/iakshatgandhi/github-readme-activity-graph)
+
+  
+
+---
+  </code>
+</p>
