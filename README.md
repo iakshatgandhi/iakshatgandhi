@@ -59,8 +59,7 @@
 ![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
 
 
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=iakshatgandhi)  
+  
  
  
  <hr>
