@@ -46,9 +46,9 @@
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=iakshatgandhi&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
 
-<!--  PROFILES VIEWS --><align="CENTER">
+<!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
+[![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)]
 
 
  <hr>
