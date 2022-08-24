@@ -28,7 +28,7 @@
 <p>
 - 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
   </p><p>
-- 🌐  &nbsp; HTML | CSS | JavaScript <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+- 🌐  &nbsp; HTML | CSS | JavaScript
   </p><p>
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
   </p><p>
