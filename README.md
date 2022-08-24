@@ -55,6 +55,7 @@
  ---
  
 <!--  PROFILES VIEWS -->
+ <p align="CENTER">
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
 
