@@ -48,7 +48,9 @@
 <b>GitHub Stats... </b></i>📈<br><br>
   
   <!--  TOP LANGUAGES STATISTICS --> 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=iakshatgandhi&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+
  
  ---
  
