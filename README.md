@@ -10,12 +10,6 @@
 </a>
 <br />
 
-<!--
-<p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iakshatgandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iakshatgandhi" /> </p>
-</p>
--->
-
 <h3> About Me  🚀 </h3>
 <p>
 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -52,15 +46,11 @@
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=iakshatgandhi&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
 
- 
-<!--  PROFILES VIEWS -->
+<!--  PROFILES VIEWS --><align="CENTER">
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
 
 
-  
- 
- 
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
