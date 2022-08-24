@@ -1,9 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Akshat!
 <a href="https://bit.ly/3nQQfWc">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya1singh" height="30" width="40" />
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakshatgandhi" height="30" width="40" />
 </a>
 <a href="https://twitter.com/iakshatgandhi">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya1singh" height="30" width="40" />
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakshatgandhi" height="30" width="40" />
 </a>
 <a href="mailto:business.akshatgandhi@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
