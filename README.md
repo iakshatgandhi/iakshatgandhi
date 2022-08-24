@@ -48,12 +48,13 @@
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)]
+![visitors](https://profile-counter.glitch.me/iakshatgandhi/count.svg?align=center)
 
 
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
+<p align="CENTER">
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakshatgandhi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
