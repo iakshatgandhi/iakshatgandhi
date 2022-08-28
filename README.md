@@ -71,3 +71,14 @@
 ---
   </code>
 </p>
+
+<!-- <a href="https://bit.ly/3nQQfWc">
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakshatgandhi" height="30" width="40" />
+</a>
+<a href="https://twitter.com/iakshatgandhi">
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakshatgandhi" height="30" width="40" />
+</a>
+<a href="mailto:business.akshatgandhi@gmail.com">
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/iakshatgandhi/iakshatgandhi/main/gmail-02.png" alt="iakshatgandhi" height="30" width="auto" />
+</a>
+<br />  -->
