@@ -10,6 +10,22 @@
 </a>
 <br />
 
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/iakshatgandhi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:business.akshatgandhi@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://bit.ly/3nQQfWc" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://stackoverflow.com/users/19863000/akshat-gandhi" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
 <h3> About Me  🚀 </h3>
 <p>
 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -36,13 +52,6 @@
   </p><p>
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
   </p>
-  ## Technical Skills
-- Languages: C, C++, Java, Python,  JavaScript, Dart, Typescript
-- Frontend : HTML, CSS, Bootstrap, React
-- Backend: Node.js, Express.js, Flask
-- Database: MongoDB, MySQL
-- Technologies: Flutter, Machine Learning, Blockchain, Cloud Computing
-- Tools: Git, GitHub, Android Studio
 
 <p align="CENTER">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i>
