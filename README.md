@@ -36,6 +36,13 @@
   </p><p>
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
   </p>
+  ## Technical Skills
+- Languages: C, C++, Java, Python,  JavaScript, Dart, Typescript
+- Frontend : HTML, CSS, Bootstrap, React
+- Backend: Node.js, Express.js, Flask
+- Database: MongoDB, MySQL
+- Technologies: Flutter, Machine Learning, Blockchain, Cloud Computing
+- Tools: Git, GitHub, Android Studio
 
 <p align="CENTER">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i>
