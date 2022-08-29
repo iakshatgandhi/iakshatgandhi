@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Akshat!
 
 <div align="left">
-<a href="https://twitter.com/iakshatgandhi" target="_blank">
+<!-- <a href="https://twitter.com/iakshatgandhi" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
@@ -11,9 +11,9 @@
 <a href="https://bit.ly/3nQQfWc" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-  <br />
+  <br /> -->
  <a href="https://bit.ly/3nQQfWc">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakshatgandhi" height="30" width="40" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="iakshatgandhi" height="30" width="40" />
 </a>
 <a href="https://twitter.com/iakshatgandhi">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakshatgandhi" height="30" width="40" />
