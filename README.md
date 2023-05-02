@@ -57,7 +57,7 @@
 
 ---
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Akshat's github activity graph]([[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iakshatgandhi&bg_color=0e0e25&color=a0549d&line=5e1736&point=972b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)))
+<--[![Akshat's github activity graph]([-->[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iakshatgandhi&bg_color=0e0e25&color=a0549d&line=5e1736&point=972b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)))
 
   
  
