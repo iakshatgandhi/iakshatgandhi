@@ -40,7 +40,7 @@
 <b>GitHub Stats... </b></i>📈<br><br>
   
   <!--  TOP LANGUAGES STATISTICS --> 
-<img width="470px" height="180px" src = "[https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&show_icons=true&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=aashimawadhwa&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact)" alt="Most Used Languages">
+<img width="470px" height="180px" src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=iakshatgandhi&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact)" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=iakshatgandhi&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <br>
   <img align="center" src="" />
