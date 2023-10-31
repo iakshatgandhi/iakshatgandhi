@@ -51,7 +51,7 @@
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakshatgandhi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=iakshatgandhi&theme=tokyonight-duo)](https://git.io/streak-stats)       
          
 
 ---
