@@ -56,7 +56,7 @@
 
 ---
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshatgandhi&theme=react-dark)](https://github.com/iakshatgandhi/github-readme-activity-graph)
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshatgandhi&theme=green)](https://github.com/iakshatgandhi/github-readme-activity-graph)
   
  
 ---
