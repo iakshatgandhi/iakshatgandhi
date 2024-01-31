@@ -21,7 +21,7 @@
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 </p><p>
-🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p>
+🌱 Enthusiast in Cloud, Web Development and Machine Learning.</p>
 <p>
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 <p>
