@@ -49,7 +49,7 @@
 
 
  <hr>
- [[Peerlist](https://github-readme-badge.peerlist.io/api/akshatgandhi)](https://peerlist.io/akshatgandhi)
+ [![Peerlist](https://github-readme-badge.peerlist.io/api/akshatgandhi)](https://peerlist.io/akshatgandhi)
  
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
