@@ -49,6 +49,7 @@
 
 
  <hr>
+ [![Peerlist](https://github-readme-badge.peerlist.io/api/akshatgandhi)](https://peerlist.io/akshatgandhi)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=iakshatgandhi&theme=tokyonight-duo)](https://git.io/streak-stats)       
