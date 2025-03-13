@@ -5,6 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.akshatgandhi@gmail.com)
 [![Peerlist](https://img.shields.io/badge/Peerlist-39A275?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/akshatgandhi)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="33%" align="right"   src="https://github.com/iakshatgandhi/iakshatgandhi/blob/main/workbench.svg" >
+
 ## 👨‍💻 About Me
 
 I'm a passionate Software Engineer with a love for continuous learning and innovation. My journey in tech is driven by curiosity and a desire to create meaningful solutions.
