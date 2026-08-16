@@ -12,7 +12,7 @@
 I'm a passionate Software Engineer with a love for continuous learning and innovation. My journey in tech is driven by curiosity and a desire to create meaningful solutions.
 
 - 🔭 Currently expanding my expertise in software development
-- 🌱 Enthusiast in Cloud, Web Development, and Machine Learning
+- 🌱 Enthusiast in Cloud, Web Development, and Blockchain
 - 🚀 Exploring emerging technologies to develop innovative solutions
 - ☕ Firm believer that coffee and code make the perfect pair
 - 💡 Motto: Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism
