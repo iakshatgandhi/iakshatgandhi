@@ -20,14 +20,14 @@ I'm a passionate Software Engineer with a love for continuous learning and innov
 ## 🛠️ Technical Skills
 
 ```
-Languages:  C | C++ | Java | Python | JavaScript | TypeScript
-Frontend:   HTML | CSS | React | Next.js | Tailwind CSS
-Backend:    Node.js | Express.js | Flask
-Database:   MongoDB | MySQL | PostgreSQL | Redis
+Languages:       C | C++ | Java | Python | JavaScript | TypeScript
+Frontend:        React | Next.js | Tailwind CSS
+Backend:         Node.js | Express.js | Flask
+Database:        MongoDB | MySQL | PostgreSQL | Redis
 APIs & Realtime: REST APIs | WebSockets | SSE | Meta WhatsApp Cloud API
 Architecture:    Monorepo | pnpm Workspaces
-Other:      Machine Learning | Blockchain | Cloud Computing
-Tools:      Git | GitHub | Docker | pnpm
+Other:           Blockchain | Cloud Computing
+Tools:           Git | GitHub | Docker | pnpm
 ```
 
 ## 📊 GitHub Stats
